@@ -4,3 +4,6 @@ console.log('done')
 for(let i=0;i<5;i++){
   console.log('success')
 }
+for(let i=0;i<5;i++){
+  console.log('updated')
+}
